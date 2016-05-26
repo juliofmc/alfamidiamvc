@@ -22,6 +22,10 @@ $cliente = new Cliente();
 $cliente->id_cliente = 1;
 $cliente->nome = "diabo555";
 
+//teste
+
+
+
 
 
 
